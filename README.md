@@ -49,8 +49,6 @@ A Python program that detects and highlights differences between two similar ima
 
 In the output image above, you can see:
 - 🔴 Red rectangles: Added elements
-- 🟢 Green rectangles: Removed elements
-- 🔵 Blue rectangles: Modified elements
 
 ## Output
 - The program generates output images with the following highlights:
