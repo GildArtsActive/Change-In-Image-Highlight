@@ -45,9 +45,7 @@ A Python program that detects and highlights differences between two similar ima
    
    ![Modified Image](1~2.jpg)
 
-### Output Image (`task_2_output/1.jpg`)
 
-![Output with Highlighted Changes](1.jpg)
 
 In the output image above, you can see:
 - 🔴 Red rectangles: Added elements
