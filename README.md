@@ -9,7 +9,7 @@ A Python program that detects and highlights differences between two similar ima
 - Handles various types of image differences including missing elements and modifications
 
 ## Requirements
-- Python 3.x
+- Python 3.9+
 - OpenCV
 - NumPy
 - Matplotlib
@@ -39,15 +39,15 @@ A Python program that detects and highlights differences between two similar ima
 ### Input Images
 1. Original Image (`input-images/1.jpg`)
    
-   ![Original Image](input-images/1.jpg)
+   ![Original Image](1.jpg)
 
 2. Modified Image (`input-images/1~2.jpg`)
    
-   ![Modified Image](input-images/1~2.jpg)
+   ![Modified Image](1~2.jpg)
 
 ### Output Image (`task_2_output/1.jpg`)
 
-![Output with Highlighted Changes](task_2_output/1.jpg)
+![Output with Highlighted Changes](1.jpg)
 
 In the output image above, you can see:
 - 🔴 Red rectangles: Added elements
@@ -64,5 +64,4 @@ In the output image above, you can see:
 - Ensure images are of the same dimensions for accurate comparison
 - The program works best with high-quality images
 
-## License
-This project is open source and available under the [MIT License](LICENSE).
+
